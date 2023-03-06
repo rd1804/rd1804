@@ -13,9 +13,9 @@ At this moment,i am learning how to be a full stack developer from zero in a Gui
 # My most used five commands
 
 
-| command | description |
+| Command | Description |
 
-| --- | --- |
+| ------- | --- |
 
 | ls | list the documents in the directory |
 
@@ -29,6 +29,7 @@ At this moment,i am learning how to be a full stack developer from zero in a Gui
 
 
 <!--
+
 **rd1804/rd1804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
