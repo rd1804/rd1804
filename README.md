@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Daniel Rodriguez.
+
+## About me.
+
+🔭 I'm a civil engineer, specialized in "Gerencia de proyectos de construcción e infraestuctura" and an student of a second specialization in "Interventoria y supervisión de obras civiles". 
+
+Now, i´m lookin for become in a software developer, a full stack developer, I hope. I know a little bit, nothing i guess about that, but I am so enthusiastic and I'm sure I can do it.
+
+## 🌱 What I'm learning?
+
+At this moment,i am learning how to be a full stack developer from zero in a Guillermo Rodas Bootcam and I am in a University of Helsinki's course about data science with Python. 
+
+
 
 <!--
 **rd1804/rd1804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
