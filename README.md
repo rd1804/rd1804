@@ -14,10 +14,13 @@ At this moment,i am learning how to be a full stack developer from zero in a Gui
 
 | Command | Description |
 
-| --- | --- |
+| ------- | ----------- |
 
 | ls | list the documents in the directory |
-
+| cd | change the directory |
+| clear | delete everything in the terminal |
+| ctrl + c | stop the terminal |
+| install | install every complement |
 
 
 
