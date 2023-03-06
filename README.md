@@ -10,6 +10,21 @@ Now, i´m lookin for become in a software developer, a full stack developer, I h
 
 At this moment,i am learning how to be a full stack developer from zero in a Guillermo Rodas Bootcam and I am in a University of Helsinki's course about data science with Python. 
 
+## My most used five commands
+
+| Command | Description |
+
+| ---------- | ---------------------- |
+
+| ls | list the documents in the directory |
+
+| cd | change the directory |
+
+| clear | delete everything in the terminal |
+
+| ctrl + c | stop the terminal |
+
+| install | install every complement |
 
 
 <!--
