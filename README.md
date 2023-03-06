@@ -16,11 +16,8 @@ At this moment,i am learning how to be a full stack developer from zero in a Gui
 |-----------|-----------|
 | Fila 1, celda 1 | Fila 1, celda 2 | 
 | cd | change the directory |
-
 | clear | delete everything in the terminal |
-
 | ctrl + c | stop the terminal |
-
 | install | install every complement |
 
 <!--
