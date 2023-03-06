@@ -15,7 +15,7 @@ At this moment,i am learning how to be a full stack developer from zero in a Gui
 
 | Command | Description |
 
-| ------- | --- |
+| --- | --- |
 
 | ls | list the documents in the directory |
 
