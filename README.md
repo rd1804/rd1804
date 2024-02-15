@@ -8,7 +8,7 @@ Now, i´m lookin for become in a software developer, a full stack developer, I h
 
 ## 🌱 What I'm learning?
 
-At this moment,i am learning how to be a full stack developer from zero in a Guillermo Rodas Bootcam and I am in a University of Helsinki's course about data science with Python. 
+At this moment, I am in a University of Helsinki's course about data science with Python. 
 
 # My most used five commands
 
